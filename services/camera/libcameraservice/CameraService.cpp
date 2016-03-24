@@ -36,6 +36,7 @@
 #include <utils/Errors.h>
 #include <utils/Log.h>
 #include <utils/String16.h>
+#include <utils/Trace.h>
 
 #include <system/camera.h>
 #include "CameraService.h"
